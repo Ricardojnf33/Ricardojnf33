@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ricardo José Nunes Fernandes, 
 postgraduate studies in Data analytics and engineering. I’m very interested in Data Science and pretend
 to became a Data Scientist. I'm part of a community called "Comunidade-DS". that I'm currently learning the 
-macnisamns in how to take insights out of data, doing
+mechanisms in how to take insights out of data, doing
 the 5 steps process, wich consistis in: 
 
 -The business question; 
