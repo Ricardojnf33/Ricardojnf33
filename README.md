@@ -16,7 +16,7 @@ I’m looking to collaborate in any company that
 give me a chance to evolve my knowledge. 
 
 # You can reach me at ricardo.jnf1@gmail.com and 
-https://www.linkedin.com/in/ricardojnf1/
+# https://www.linkedin.com/in/ricardojnf1/
 
 <!---Ricardojnf33/Ricardojnf33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
