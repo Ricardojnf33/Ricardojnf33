@@ -7,7 +7,7 @@ mechanisms in how to take insights out of data and solve real business problems,
 
 Skills:
 
-Language: Python, MySQL, MATLAB, Wolfram Mathematica, Fortran.
+Language: Python, MySQL.
 - Web Scraping: Python (beautifulsoup, selenium).
 - Data Engineering: MySQL Server, ETL, Airflow.
 - Data Cleaning & Manipulation: Python (numpy, pandas).
