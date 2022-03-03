@@ -1,9 +1,9 @@
 ## 👋 Hi, My name is Ricardo and I'm a Data Scientist Jr.!
 
 I am currently in my postgraduate studies in data analysis and engineering and developing machine learning projects in Data Science. 
-Able to critically analyze graphs, patterns, extract insights from data and write work reports in English. 
-. I'm part of a community of data Scientists called "Comunidade-DS". where I'm currently learning the 
-mechanisms in how to take insights out of data and solve real business problems, doing CRISP-DM methodology
+Able to critically analyze graphs, patterns, extract insights from data and write work reports in English.
+I'm part of a community of data Scientists called "Comunidade-DS". where I'm currently learning the mechanisms in how to take insights 
+out of data and solve real business problems, doing CRISP-DM methodology.
 
 Skills:
 
