@@ -2,7 +2,7 @@
 
 I am currently in my postgraduate studies in data analysis and engineering, developing machine learning projects in Data Science. 
 Able to critically analyze graphs, patterns, extract insights from data and write work reports in English.
-I'm part of a community of data Scientists called "Comunidade-DS". where I'm currently learning the mechanisms in how to take insights 
+I'm part of a community of data Scientists called "Comunidade-DS", where I'm currently learning the mechanisms in how to take insights 
 out of data and solve real business problems, doing CRISP-DM methodology.
 
 Skills:
