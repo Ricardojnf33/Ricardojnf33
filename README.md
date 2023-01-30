@@ -5,7 +5,7 @@ In order to become a marketable data analyst, I plan to build and carry out proj
 In addition to these technical abilities, I have worked for the past year and a half constructing educational projects using supervised and unsupervised machine learning approaches, which have allowed me to construct prediction models and spot patterns in data. In addition, I am well-versed in the CRISP-DM approach, which helps me define business challenges, locate appropriate data sources, and execute appropriate solutions. Final course assignment is a data science project, and I'm using the CRISP-DM methodology and machine learning algorithms to construct a case study to help solve a business question.
 
 
-Overall, I believe I am prepared to contribute as a data analyst, a position that calls for me to collaborate directly with stakeholders to learn about their requirements and then offer data-driven insights to aid in making educated decisions. I have little trouble reporting my discoveries both orally and in writing, and I am constantly on the lookout for new methods to learn and adapt.
+Overall, I believe I am prepared to contribute as a data analyst, a position that calls for me to collaborate directly with stakeholders to learn about their requirements and then offer data-driven insights to aid in making educated decisions. I have no trouble reporting my discoveries both orally and in writing, and I am constantly on the lookout for new methods to learn and adapt.
 
 
 Skills:
