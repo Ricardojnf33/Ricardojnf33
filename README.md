@@ -21,6 +21,7 @@ Machine Learning: Supervised Learning Methods (linear regression, logistic regre
 WebApp: Streamlit.
 General approach to problem-solving: Leveraging a range of tools, methodologies, and expertise to find innovative solutions to complex problems.
 
-Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/ricardojnf1/
+Feel free to acess my Portfólio page in the link: https://ricardojnf33.github.io/projects_portfolio/,  connect with me on LinkedIn: https://www.linkedin.com/in/ricardojnf1/ and email: ricardo.jnf1@gmail.com.
 
-Together, we can explore the vast realm of data and harness the power of cutting-edge Artificial Intelligence for the betterment of society, moving far from the dystopian utopia envisioned by George Orwell.
+
+"Together, we can explore the vast realm of data and harness the power of cutting-edge Artificial Intelligence for the betterment of society, moving far from the dystopian utopia envisioned by George Orwell."
