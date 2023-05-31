@@ -1,27 +1,26 @@
-My name is Ricardo, and I've been a self-taught student of data science for the past two years, with the goal of becoming a senior data scientist in the next five. Given my background, I now consider myself a competent data analyst. As part of my master's degree program in engineering and data analysis, I've been working on machine learning projects. By working on personal projects, I was able to hone my skills in data analysis, pattern recognition, and report writing while expanding my English language proficiency. I've been a researcher at the "Comunidade-DS" for the past two years, contributing to projects in which I use the CRISP-DM approach to extract insights from data and address actual business challenges.
+📊 Overview of My GitHub Profile 📊
 
-In order to become a marketable data analyst, I plan to build and carry out projects to show my ability to manipulate data, collect, clean, and analyze data from a variety of sources in order to draw conclusions and guide business decisions. For data manipulation, I use beautifulsoup and Selenium to web scraping and collect data, store in datawharehouses like Heroku and Python and SQL to manipulate and analyse the data, using dashboard-building with  and presentation tools like matplotlib and seaborn to convey my findings in an understandable manner.
+Hello, I'm Ricardo, a passionate data enthusiast with a focus on Data Science and Artificial Intelligence. Over the past two years, I have been dedicated to self-learning and pursuing my goal of becoming a senior data scientist within the next five years.
 
-In addition to these technical abilities, I have worked for the past year and a half constructing educational projects using supervised and unsupervised machine learning approaches, which have allowed me to construct prediction models and spot patterns in data. In addition, I am well-versed in the CRISP-DM approach, which helps me define business challenges, locate appropriate data sources, and execute appropriate solutions. Final course assignment is a data science project, and I'm using the CRISP-DM methodology and machine learning algorithms to construct a case study to help solve a business question.
+As part of my master's degree program in engineering and data analysis, I have been actively involved in machine learning projects, honing my skills in data analysis, pattern recognition, and report writing. During this time, I have also expanded my proficiency in the English language. For the past two years, I have worked as a researcher at "Comunidade-DS," contributing to projects that utilize the CRISP-DM approach to extract valuable insights from data and tackle real-world business challenges.
 
+To establish myself as a marketable data analyst, I plan to undertake and execute projects that showcase my ability to manipulate, collect, clean, and analyze data from diverse sources in order to draw meaningful conclusions and provide guidance for informed business decisions. For data manipulation, I utilize powerful tools such as Python and SQL, along with libraries like beautifulsoup and Selenium for web scraping. I employ data visualization techniques using matplotlib and seaborn to present my findings in a clear and understandable manner.
 
-Overall, I believe I am prepared to contribute as a data analyst, a position that calls for me to collaborate directly with stakeholders to learn about their requirements and then offer data-driven insights to aid in making educated decisions. I have no trouble reporting my discoveries both orally and in writing, and I am constantly on the lookout for new methods to learn and adapt.
+In addition to my technical skills, I have spent the past year and a half actively engaged in educational projects involving both supervised and unsupervised machine learning approaches. This experience has allowed me to develop predictive models and identify patterns in data. Furthermore, my strong familiarity with the CRISP-DM approach enables me to define business challenges, locate appropriate data sources, and implement effective solutions. As part of my final course assignment, I am currently working on a data science project where I am employing the CRISP-DM methodology and various machine learning algorithms to construct a compelling case study that addresses a relevant business question.
 
+Overall, I believe I am well-prepared to contribute as a data analyst. This role demands collaboration with stakeholders to understand their requirements and offer data-driven insights that facilitate informed decision-making. I am skilled at effectively communicating my discoveries through oral presentations and written reports. Furthermore, I am constantly seeking opportunities to expand my knowledge and adapt to emerging trends and techniques.
 
 Skills:
 
 Language: Python, MySQL.
-- Web Scraping: Python (beautifulsoup, selenium).
-- Data Engineering: MySQL Server, ETL, Airflow.
-- Data Cleaning & Manipulation: Python (numpy, pandas).
-- Data Visualization & Dashboard: Python (matplotlib, seaborn).
-- Machine Learning: Supervised Learning Methods (linear regression, logistic regression, decision trees, KNN, random forests...), Unsupervised Learning Methods (kmeans, hierarchical clustering...).
-- WebApp: Streamlit. 
- 
-General approach to problem-solving: Asking an LLM, like ChatGPT, the right question to find answer.
+Web Scraping: Python (beautifulsoup, selenium).
+Data Engineering: MySQL Server, ETL, Airflow.
+Data Cleaning & Manipulation: Python (numpy, pandas).
+Data Visualization & Dashboard: Python (matplotlib, seaborn).
+Machine Learning: Supervised Learning Methods (linear regression, logistic regression, decision trees, KNN, random forests...), Unsupervised Learning Methods (k-means, hierarchical clustering...).
+WebApp: Streamlit.
+General approach to problem-solving: Leveraging a range of tools, methodologies, and expertise to find innovative solutions to complex problems.
 
-# You can reach me at https://www.linkedin.com/in/ricardojnf1/
+Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/ricardojnf1/
 
-<!---Ricardojnf33/Ricardojnf33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Together, we can explore the vast realm of data and harness the power of cutting-edge Artificial Intelligence for the betterment of society, moving far from the dystopian utopia envisioned by George Orwell.
