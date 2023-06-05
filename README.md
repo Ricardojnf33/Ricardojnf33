@@ -1,6 +1,6 @@
 📊 Overview of My GitHub Profile 📊
 
-Hello, I'm Ricardo, a passionate data enthusiast with a focus on Data Science and Artificial Intelligence. Over the past two years, I have been dedicated to self-learning and pursuing my goal of becoming a senior data scientist within the next five years.
+Hello, I'm Ricardo, a passionate data enthusiast with a focus on Data Science and Artificial Intelligence. Over the past three years, I have been dedicated to self-learning and pursuing my goal of becoming a senior data scientist within the next five years.
 
 As part of my master's degree program in engineering and data analysis, I have been actively involved in machine learning projects, honing my skills in data analysis, pattern recognition, and report writing. During this time, I have also expanded my proficiency in the English language. For the past two years, I have worked as a researcher at "Comunidade-DS," contributing to projects that utilize the CRISP-DM approach to extract valuable insights from data and tackle real-world business challenges.
 
