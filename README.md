@@ -4,7 +4,7 @@ My name is Ricardo Fernandes and I'm a Data Scientist looking for a career chang
 
 # My experience
 
-I have studied data science for over 3 years, and since ChatGPT was created in November 2022, I have been studying the field of artificial intelligence, specifically large language models (LLMs). Python, PostgressSQL, Picone for Vector Databases, Streamlit visualization, AWS (when needed), and Prompting Engineering with the best LLMs on the market are all languages I know well. I'm a creative and innovative problem solver, and I'm constantly considering fresh approaches to using data to address issues in the real world. I also have methods for developing any solution step-by-step. With I.A., ask and I'll find out.
+I have studied data science for over 3 years, and since ChatGPT was created in November 2022, I have been studying the field of artificial intelligence, specifically large language models (LLMs). Python, PostgressSQL, Picone for Vector Databases, Streamlit visualization, AWS (when needed), and Prompting Engineering with the best LLMs on the market are all languages I know well. I'm a creative and innovative problem solver, and I'm constantly considering fresh approaches to using data to address issues in the real world. I also have methods for developing any solution step-by-step. With A.I., ask and I'll find out.
 
 # My current projects
 
