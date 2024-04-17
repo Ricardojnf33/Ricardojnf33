@@ -1,4 +1,4 @@
-# Ricardo Fernandes - Data Science Researcher
+# Data Science Researcher
 
 Hello! My name is Ricardo Fernandes, and I am a Data Science Researcher and Prompt Engineer passionate about unveiling the mysteries of Artificial Intelligence and driving the future with innovative solutions. With over three years of experience in data science research and specialization in analyzing, visualizing data, developing machine learning models, and generating actionable insights, I am at the forefront of the AI revolution.
 
@@ -18,13 +18,6 @@ I developed an AI assistant capable of interpreting natural language queries and
 
 Developing a system for fleet management using advanced telemetry and machine learning to enhance operational efficiency and safety.
 
-**Technical Skills and Interests**
-
-- streamlit
-- Langchain
-- LLM
-- Prompt engineering tools (CoT) Chain of Thought
-
 * Languages: Python, SQL, Spark, Dask
 * Frameworks: Streamlit, LangChain, CrewAI, Flask
 * Tools: Docker, Pinecone, AWS, DataLake AWS, Postgresql, Snowflake
@@ -33,11 +26,11 @@ Developing a system for fleet management using advanced telemetry and machine le
 ## how to connect
 
 LinkedIn: https://www.linkedin.com/in/ricardojnf1/
-GitHub: https://github.com/Ricardojnf33
 
 Thanks for visiting my profile!
 
-```The Artificial Intelligence Revolution
+```
+The Artificial Intelligence Revolution
 
 I believe that Artificial Intelligence (AI) is the next big revolution and I'm excited to be a part of it. AI has the potential to solve many of the world's most pressing problems, from climate change to poverty. I'm working with 3 simultaneous consultants CLAUDE3, GEMINI and ChatGPT-Plus to develop new ways to use AI to solve real world problems.
 
